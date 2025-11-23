@@ -38,7 +38,7 @@ function AboutTR() {
                 <p className={`mb-4 text-sm sm:text-base leading-relaxed transition-colors duration-300 animate-slide-in stagger-3 ${
                   isDark ? 'text-gray-300' : 'text-gray-700'
                 }`}>
-                  Türkiye'nin ilk ve tek yetenek değişim platformunu kurdum. İstanbul'da yaşıyorum ve şu anda 11. sınıf öğrencisiyim. Üç yıldır kesintisiz olarak stajlarla sektör deneyimi kazanıyorum. Bunun yanında ürünler geliştiriyor, n8n tabanlı otomasyon sistemleri kuruyorum ve e-ticaret markalarının satışlarını artırmalarına, operasyonel yüklerini azaltmalarına ve günlük süreçlerini otomatikleştirmelerine yardımcı olan iş akışları tasarlıyorum.
+                  Türkiye&apos;nin ilk ve tek yetenek değişim platformunu kurdum. İstanbul&apos;da yaşıyorum ve şu anda 11. sınıf öğrencisiyim. Üç yıldır kesintisiz olarak stajlarla sektör deneyimi kazanıyorum. Bunun yanında ürünler geliştiriyor, n8n tabanlı otomasyon sistemleri kuruyorum ve e-ticaret markalarının satışlarını artırmalarına, operasyonel yüklerini azaltmalarına ve günlük süreçlerini otomatikleştirmelerine yardımcı olan iş akışları tasarlıyorum.
                 </p>
                 <p className={`mb-4 text-sm sm:text-base leading-relaxed transition-colors duration-300 animate-slide-in stagger-4 ${
                   isDark ? 'text-gray-300' : 'text-gray-700'
