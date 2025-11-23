@@ -9,7 +9,7 @@ function AboutTR() {
     <>
       <Helmet>
         <title>Hakkımda - Mehmet Reşit Gül</title>
-        <meta name="description" content="İstanbul merkezli 17 yaşında girişimci, AI otomasyon sistemleri ve e-ticaret çözümleri geliştiriyor. Türkiye'nin ilk yetenek değişim platformu Takazade'nin kurucusu." />
+        <meta name="description" content="Istanbul merkezli 17 yasinda girisimci, AI otomasyon sistemleri ve e-ticaret cozumleri gelistiriyor. Turkiye'nin ilk yetenek degisim platformu Takazade'nin kurucusu." />
       </Helmet>
 
       <section className="min-h-screen pt-20 sm:pt-32 pb-20 relative z-10 px-4">
