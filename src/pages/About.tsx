@@ -28,7 +28,7 @@ function About() {
               <p className={`mb-4 text-sm sm:text-base leading-relaxed transition-colors duration-300 animate-slide-in stagger-2 ${
                 isDark ? 'text-gray-300' : 'text-gray-700'
               }`}>
-                Hi, I'm Mehmet Reşit Gül. I'm a 17-year-old startup founder and AI automation developer.
+                Hi, I'm Mehmet Reşit Gül. I’m a 17-year-old solo entrepreneur, Start-Up founder, and AI automation developer.
               </p>
 
               <p className={`mb-4 text-sm sm:text-base leading-relaxed transition-colors duration-300 animate-slide-in stagger-3 ${
