@@ -8,8 +8,9 @@ function About() {
   return (
     <>
       <Helmet>
-        <title>About - Mehmet Resit Gul</title>
-        <meta name="description" content="Istanbul-based 17-year-old entrepreneur building AI automation systems and e-commerce solutions. Founder of Takazade, Turkey's first talent exchange platform." />
+        <title>Ben Kimim?</title>
+        <meta name="description" content="Ben Mehmet Reşit Gül. 17 yaşında solo girişimci, startup geliştiricisi ve AI otomasyon sistemleri üzerine çalışan biriyim. İstanbul'da yaşıyorum ve 11. sınıf öğrencisiyim; son üç yıldır sektörde aralıksız staj yaparak gerçek iş tecrübesi edindim.
+" />
       </Helmet>
 
       <section className="min-h-screen pt-20 sm:pt-32 pb-20 relative z-10 px-4">
