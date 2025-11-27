@@ -5,11 +5,17 @@ import { useTheme } from '../ThemeContext';
 function About() {
   const { isDark } = useTheme();
 
-  return (
+   return (
     <>
       <Helmet>
-        <title>Ben Kimim?</title>
-        <meta name="description" content="Ben Mehmet Reşit Gül. 17 yaşında solo girişimci, startup geliştiricisi ve AI otomasyon sistemleri üzerine çalışan biriyim. İstanbul'da yaşıyorum ve 11. sınıf öğrencisiyim; son üç yıldır sektörde aralıksız staj yaparak gerçek iş tecrübesi edindim.
+        <title>Ben kimim?</title>
+        <meta
+          name="description"
+          content="Ben Mehmet Reşit Gül. 17 yaşında solo girişimci, startup kurucusu ve AI otomasyon sistemleri üzerine çalışan biriyim. İstanbul'da yaşıyorum ve 11. sınıf öğrencisiyim; son üç yıldır sektörde aralıksız staj yaparak gerçek iş tecrübesi edindim.
+"
+        />
+      </Helmet>
+      
 " />
       </Helmet>
 
